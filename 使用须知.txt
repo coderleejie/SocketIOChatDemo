@@ -1,7 +1,7 @@
 使用步骤：
 1：在你的工作目录新建一个文件夹，取名为temp
 2：进入temp目录，搭建nodejs环境
-3：把lychee文件夹的内容覆盖temp的内容，此时运行nodejs环境，命令行中输入node app.js即可看到监听消息
+3：把lychee文件夹的内容（https://github.com/TheBloodElf/lychat.git下载）覆盖temp的内容，此时运行nodejs环境，命令行中输入node app.js即可看到监听消息
 4:打开iOS工程Socket.ioDemo运行即可开始聊天
 
 node：socket.io发送的消息是在lychee中app.js中定义的，聪明人一看便知
